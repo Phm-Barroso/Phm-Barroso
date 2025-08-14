@@ -1,16 +1,33 @@
-## Hi there 👋
+██████╗ ███████╗██████╗ ██████╗  ██████╗     ██████╗ ███████╗██╗   ██╗
+██╔══██╗██╔════╝██╔══██╗██╔══██╗██╔═══██╗    ██╔══██╗██╔════╝██║   ██║
+██████╔╝█████╗  ██║  ██║██████╔╝██║   ██║    ██║  ██║█████╗  ██║   ██║
+██╔═══╝ ██╔══╝  ██║  ██║██╔══██╗██║   ██║    ██║  ██║██╔══╝  ╚██╗ ██╔╝
+██║     ███████╗██████╔╝██║  ██║╚██████╔╝    ██████╔╝███████╗ ╚████╔╝ 
 
-<!--
-**Phm-Barroso/Phm-Barroso** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+💻 **$ Name**: Pedro Henrique Medeiros Barro  
+🕒 **$ Uptime**: 21 Anos  
+🖥️ **$ OS**: Windows  
+📝 **$ Editor**: VS Code, Eclipse  
+🎯 **$ Passions**: matemática, programação, hacking, games, futebol.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 📌 Sobre Mim
+Atualmente, estou aprofundando meus conhecimentos em Java, MySQL e C++
+
+---
+
+## 🚀 Em Evolução
+- Aprendendo fundamentos de **Java**, **C++** e **MySQL**
+
+---
+
+## 📫 Contato
+- Email: **phmbarroso@gmail.com**
+
+---
+
+```c
+while(alive) { code(); }
