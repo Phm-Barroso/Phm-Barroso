@@ -13,15 +13,22 @@ Editor: VSCode
 
 # devops-profile
 Skills: automação, containers, IaC, CI/CD, observabilidade
+
 Stack: Bash, Docker, Kubernetes, Terraform, Git, GitHubActions/Jenkins
+
 Ops: criação de pipelines, provisionamento de ambientes, monitoramento e logs
+
 Mindset: confiabilidade > velocidade, automação > esforço, métricas > achismo
 
 # experience
 - Implementação de pipelines automáticos (build, test, deploy)
+
 - Criação de containers e ambientes reproduzíveis
+
 - Infraestrutura como código para provisionar recursos
+
 - Monitoramento básico com Prometheus e Grafana
+
 - Troubleshooting de serviços e containers
 
 # short-bio
