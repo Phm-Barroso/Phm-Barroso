@@ -1,9 +1,14 @@
 # system-info
 Name: Pedro Henrique Medeiros Barroso
+
 Uptime: 21 anos
+
 Area: DevOps
+
 Shell: Bash / PowerShell
+
 OS: Windows + Linux (WSL)
+
 Editor: VSCode
 
 # devops-profile
